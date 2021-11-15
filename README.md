@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashwingk01
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on metagenomics,precision medicine,proteomics projects
+- 💞️ I’m looking to collaborate on metagenomics,precision medicine,proteomics,health data managment projects.
 - 📫 How to reach me @ashwing.kofficial@gmail.com
 
 <!---
