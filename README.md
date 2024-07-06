@@ -27,7 +27,7 @@ I'm Ashwin, a bioinformatics enthusiast with a master's degree, passionate about
 
 I'm always open to new collaboration opportunities and discussions. Feel free to reach out to me via:
 
-- 📧 Email: ashwing.kofficial@gmail.com
+- 📧 Email: ashwingkuk@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ashwinkhedkar/
 
 Let's connect and work on exciting bioinformatics projects together!
